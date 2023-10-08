@@ -60,12 +60,12 @@
     align-items: center;
     padding: 20px;
   }
-  .icon-instagram,.icon-facebook,.icon-twitter,.icon-youtube{
+  .icon-instagram,.icon-facebook,.icon-twitter,.icon-youtube,.icon-linkedin{
     padding: 20px;
     font-size: 2rem;
     
   }
-  .icon-instagram,.icon-facebook,.icon-twitter,.icon-youtube:hover{
+  .icon-instagram,.icon-facebook,.icon-twitter,.icon-youtube,.icon-linkedin:hover{
     cursor: pointer;
 
   }
